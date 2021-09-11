@@ -1,0 +1,16 @@
+Z:\IT-One\project\basicC\bin\Debug\net5.0\basicC.exe
+Z:\IT-One\project\basicC\bin\Debug\net5.0\basicC.deps.json
+Z:\IT-One\project\basicC\bin\Debug\net5.0\basicC.runtimeconfig.json
+Z:\IT-One\project\basicC\bin\Debug\net5.0\basicC.runtimeconfig.dev.json
+Z:\IT-One\project\basicC\bin\Debug\net5.0\basicC.dll
+Z:\IT-One\project\basicC\bin\Debug\net5.0\ref\basicC.dll
+Z:\IT-One\project\basicC\bin\Debug\net5.0\basicC.pdb
+Z:\IT-One\project\basicC\obj\Debug\net5.0\basicC.csproj.AssemblyReference.cache
+Z:\IT-One\project\basicC\obj\Debug\net5.0\basicC.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IT-One\project\basicC\obj\Debug\net5.0\basicC.AssemblyInfoInputs.cache
+Z:\IT-One\project\basicC\obj\Debug\net5.0\basicC.AssemblyInfo.cs
+Z:\IT-One\project\basicC\obj\Debug\net5.0\basicC.csproj.CoreCompileInputs.cache
+Z:\IT-One\project\basicC\obj\Debug\net5.0\basicC.dll
+Z:\IT-One\project\basicC\obj\Debug\net5.0\ref\basicC.dll
+Z:\IT-One\project\basicC\obj\Debug\net5.0\basicC.pdb
+Z:\IT-One\project\basicC\obj\Debug\net5.0\basicC.genruntimeconfig.cache
