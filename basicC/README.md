@@ -1,4 +1,4 @@
-OptionalTest, just basic C# without try catch error  
+it's just basic C# without try catch error in my project  
 
 All in One OptionalTest  
 ------------------------  
